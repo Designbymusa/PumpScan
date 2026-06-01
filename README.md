@@ -1,4 +1,5 @@
 # PumpScan
+<<<<<<< HEAD
 
 PumpScan is a modern, responsive React Native application that allows users to scan, track, and monitor various crypto tokens to evaluate their safety and market performance.
 
@@ -37,3 +38,6 @@ Here is a glimpse into the PumpScan app running on the emulator:
 ## Tech Stack
 - Frontend: Expo, React Native, NativeWind
 - Backend: Node.js, Express, Supabase (PostgreSQL)
+=======
+Real-time token analysis and risk detection engine.
+>>>>>>> f4bcec57d1600e1bf9bacb156b1d9d6bf2f4c3a5
