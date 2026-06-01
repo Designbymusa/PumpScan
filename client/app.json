@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "PumpScan",
+    "slug": "Don’t Get Pumped. Get Scanned",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/app-logo.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "scheme": "pumpscan",
+    "splash": {
+      "image": "./assets/icons/app-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff",
+      "hideOnLaunch": false
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/app-logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.anonymous.client"
+    },
+    "web": {
+      "favicon": "./assets/icons/app-logo.png",
+      "bundler": "metro"
+    }
+  }
+}
